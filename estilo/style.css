@@ -43,7 +43,7 @@ header > p {
 header a, footer a {
     color: white;
     text-decoration: none;
-    font-weight: bolder;
+    /*font-weight: bolder;*/
 }
 
 header a:hover, footer a:hover {
@@ -97,6 +97,6 @@ footer {
     background-color: black;
     color: white;
     text-align: center;
-    font-size: 1em;
+    font-size: 0.9em;
     padding: 5px;
 }
