@@ -87,8 +87,7 @@ section.imagem > p {
 section#img01 {
     background-image: url('../imagens/background001.jpg');
     background-position: center center;
-    height: 100vh;
-    background-size: cover;
+    background-size: auto;
 }
 
 section#img02 {
